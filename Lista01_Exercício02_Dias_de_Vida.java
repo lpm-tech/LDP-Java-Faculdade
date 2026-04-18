@@ -1,5 +1,5 @@
 /* * PROJETO: LDP-Java-Faculdade
- // EXERCÍCIO 1 - Dias de Vida
+ // EXERCÍCIO 2 - Dias de Vida
  2. Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui. 
  Considere sempre anos completos, e que um ano possui 365 dias.
  Ex: uma pessoa com 19 anos possui 6935 dias de vida;
