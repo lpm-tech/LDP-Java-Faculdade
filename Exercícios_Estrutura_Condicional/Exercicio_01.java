@@ -6,12 +6,17 @@ public class Exercicio_01
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);
-	    int n1;
-	    int n2;
-		System.out.println("Digite um número:");
+		
+		//Variáveis
+	    int n1, n2;
+		
+		//Entrada
+		System.out.println("Digite um número inteiro:");
 		n1=sc.nextInt();
-		System.out.println("Digite outro número:");
+		System.out.println("Digite outro número inteiro:");
 		n2=sc.nextInt();
+		
+		//Processamento e Saída
 		if (n1==n2){
 		  System.out.println("Ambos os números são iguais!"); 
 		}else {
