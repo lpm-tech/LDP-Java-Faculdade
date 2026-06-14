@@ -32,7 +32,7 @@ public class Exercicio_10
 		  } else if (dia == 7){
 		      System.out.println("Sábado.");
 		  } else {
-		      System.out.println("Não existe nenhum dia da semana com esse número!");
+		      System.out.println("Não existe nenhum dia da semana com este número!");
 		}
 	}
 }
