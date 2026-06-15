@@ -14,7 +14,7 @@ public class Exercicio_05
 	    
 	    //Entrada
 		  System.out.println("Digite a temperatura em Celsius:");
-		  c=sc.nextInt();
+		  c=sc.nextDouble();
 		
 		  //Processamento
 		  f = (c*1.8) + 32;
