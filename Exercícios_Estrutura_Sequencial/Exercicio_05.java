@@ -13,14 +13,14 @@ public class Exercicio_05
 	    double c, f;
 	    
 	    //Entrada
-		  System.out.println("Digite a temperatura em Celsius:");
-		  c=sc.nextDouble();
+		System.out.println("Digite a temperatura em Celsius:");
+		c=sc.nextDouble();
 		
-		  //Processamento
-		  f = (c*1.8) + 32;
+		//Processamento
+		f = (c*1.8) + 32;
 		
-		  //Saída
-		  System.out.println("Temperatura inserida em Celsius: "+c);
-		  System.out.println("A temperatura em Fahrenheit é: "+f);
+		//Saída
+		System.out.println("Temperatura inserida em Celsius: "+c);
+		System.out.println("A temperatura em Fahrenheit é: "+f);
 	}
 }
