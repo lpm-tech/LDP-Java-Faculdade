@@ -13,9 +13,9 @@ public class Exercicio_03
 	    
 	    //Entrada
 		  System.out.println("Digite a cotação atual do dólar em reais:");
-		  cotacao=sc.nextInt();
+		  cotacao=sc.nextDouble();
 		  System.out.println("Digite o valor que possui em dólares:");
-		  dolar=sc.nextInt();
+		  dolar=sc.nextDouble();
 		
 		  //Processamento
 		  reais = dolar*cotacao;
