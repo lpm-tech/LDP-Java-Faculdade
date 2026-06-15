@@ -15,9 +15,9 @@ public class Exercicio_04
 	    //Entrada
 	    System.out.println("Vamos calcular a área de um losango!");
 		  System.out.println("Digite o valor da diagonal maior:");
-		  diag1=sc.nextInt();
+		  diag1=sc.nextDouble();
 		  System.out.println("Digite o valor da diagonal menor:");
-		  diag2=sc.nextInt();
+		  diag2=sc.nextDouble();
 		
 		  //Processamento
 		  area = (diag1*diag2)/2;
